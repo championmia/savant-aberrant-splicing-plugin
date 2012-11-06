@@ -14,7 +14,7 @@ Add your content here.  Format your content with:
 
 = Introduction =
 
-The plugin is designed to work with Savant genome browser of v 2.0 and higher. The plugin contains all the source code, please feel free to modify it further for your needs.
+The plugin is designed to work with Savant genome browser http://genomesavant.com/savant/ of v 2.0 and higher. The plugin contains all the source code, please feel free to modify it further for your needs.
 
 = Details =
 
