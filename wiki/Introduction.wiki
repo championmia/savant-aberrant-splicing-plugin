@@ -14,7 +14,7 @@ Add your content here.  Format your content with:
 
 = Introduction =
 
-The plugin is designed to work with Savant genome browser http://genomesavant.com/savant/ of v 2.0 and higher. The plugin contains all the source code, please feel free to modify it further for your needs.
+The plugin is designed to work with Savant genome browser <a href="http://genomesavant.com/savant/">Savant</a> of v 2.0 and higher. The plugin contains all the source code, please feel free to modify it further for your needs.
 
 = Details =
 
@@ -24,7 +24,7 @@ The plugin is based on modeling of splice site junctions with the Bayesian splic
 
 Licensed under the Apache License, Version 2.0. You may obtain a copy of the License at
 
-         http://www.apache.org/licenses/LICENSE-2.0
+ <a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a>
  
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
