@@ -9,7 +9,7 @@ The plugin is designed to work with Savant genome browser <a href="http://genome
 The plugin is based on modeling of splice site junctions with the <a href="http://www.biology-direct.com/content/1/1/10">Bayesian splice site sensor</a> that has been found to have excellent sensitivity and specificity predicting splice sites compared to other sensor designs. Our plugin represents acceptors as red triangles and donors as blue or maroon colored (for GC non-canonical donors) triangles. The strength of a signal (how much signal triangle is filled with a color) characterizes its splicing competence. The stronger a signal, the more likely it flanks a true rather than cryptic exon. 
 The plugin also incorporated modeling of internal exons (note that only internal exons are currently modeled, the first and last exons have different splicing mechanisms) by the <a href="http://www.biomedcentral.com/1471-2105/11/22/abstract">SpliceScan II</a> program. 
 
-Additional information on how to use the plugin is currently available from our <a href="http://prevmed.big.ac.cn/SplicingModeling.html">web site</a>. Once you have questions please do not hesitate contacting me at alexander@big.ac.cn. 
+Additional information on how to use the plugin is currently available from our <a href="http://prevmed.big.ac.cn/SplicingModeling.html">web site</a>. Once you have questions please do not hesitate contacting me at alexander<at>big.ac.cn. 
 
 = License =
 
