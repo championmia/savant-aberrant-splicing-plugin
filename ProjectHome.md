@@ -1,0 +1,1 @@
+The plugin for Savant browser http://genomesavant.com/savant/ to predict possible aberrant splicing events induced by the newly discovered genetic variants.
